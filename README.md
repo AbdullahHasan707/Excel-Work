@@ -1,1 +1,0 @@
-Transformed raw sales data into a structured Excel report by applying formulas and calculations to determine total revenues. Used functions for summation, percentage growth, and formatting to present clear financial insights. Organized the dataset into a clean, professional format, making it easy to analyze performance across regions and products.
